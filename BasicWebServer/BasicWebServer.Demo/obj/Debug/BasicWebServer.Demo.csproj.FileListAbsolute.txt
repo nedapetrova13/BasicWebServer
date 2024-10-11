@@ -1,0 +1,1 @@
+C:\Users\Student\Desktop\neda-praktika\BasicWebServer\BasicWebServer.Demo\obj\Debug\BasicWebServer.Demo.csproj.CoreCompileInputs.cache

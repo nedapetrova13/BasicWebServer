@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\neda-praktika\BasicWebServer\BasicWebServer\bin\Debug\BasicWebServer.exe.config
+C:\Users\Student\Desktop\neda-praktika\BasicWebServer\BasicWebServer\bin\Debug\BasicWebServer.exe
+C:\Users\Student\Desktop\neda-praktika\BasicWebServer\BasicWebServer\bin\Debug\BasicWebServer.pdb
+C:\Users\Student\Desktop\neda-praktika\BasicWebServer\BasicWebServer\obj\Debug\BasicWebServer.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\neda-praktika\BasicWebServer\BasicWebServer\obj\Debug\BasicWebServer.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\neda-praktika\BasicWebServer\BasicWebServer\obj\Debug\BasicWebServer.exe
+C:\Users\Student\Desktop\neda-praktika\BasicWebServer\BasicWebServer\obj\Debug\BasicWebServer.pdb
